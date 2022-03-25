@@ -1,0 +1,319 @@
+año;codigo_dane;establecimiento educativo;prestacion_servicio;comuna_establecimiento;gestion_administrativa;gestion_academica;gestion;total;desarrollo
+2018;105001000001;inst educ jose maria velaz;oficial;2;15.75;31.2;9.75;56.7;básico con tendencia a alto
+2018;105001000043;inst educ barrio santa cruz;oficial;2;14.83;31.5;11.5;57.83;básico con tendencia a alto
+2018;105001000108;inst educ centro formativo de antioquia - cefa;oficial;10;22.5;60;15.5;98;superior
+2018;105001000132;inst educ jose maria bernal;oficial;16;22.25;60;16;98.25;superior
+2018;105001000141;inst educ camilo torres restrepo;oficial;4;19.02;50.75;14.35;84.13;alto
+2018;105001000175;inst educ gabriel restrepo moreno;oficial;3;17.96;43.05;10.85;71.86;alto
+2018;105001000205;inst educ san agustin;oficial;4;9.98;28;7.5;45.48;básico
+2018;105001000256;inst educ hector abad gomez;oficial;10;13.55;39.73;12.25;65.53;alto con tendencia a básico
+2018;105001000353;inst educ juan de la cruz posada;oficial;8;12.2;27.38;9.9;49.48;básico
+2018;105001000396;inst educ jose acevedo y gomez;oficial;15;16.27;42.83;11.5;70.6;alto
+2018;105001000418;inst educ la milagrosa;oficial;9;9.3;30.48;8.3;48.08;básico
+2018;105001000485;inst educ la salle de campoamor;oficial;15;22.5;54.25;16.25;93;superior
+2018;105001000493;inst educ ramon giraldo ceballos;oficial;16;12.75;35.83;8.4;56.98;básico con tendencia a alto
+2018;105001000566;inst educ caracas;oficial;8;20.38;44.5;12.6;77.47;alto
+2018;105001000621;inst educ escuela normal superior de medellin;oficial;8;17.15;41.23;10.75;69.13;alto con tendencia a básico
+2018;105001000795;inst educ alfredo cock arango;oficial;6;20.88;49;14.5;84.38;alto
+2018;105001000809;inst educ perpetuo socorro;oficial;13;18.14;38.7;13.9;70.74;alto
+2018;105001000841;inst educ jesus maria el rosal;oficial;5;20.09;47.53;12.9;80.51;alto
+2018;105001000876;inst educ javiera londoño-sevilla;oficial;4;18.31;29.35;10.25;57.91;básico con tendencia a alto
+2018;105001000931;inst educ diego echavarria misas;oficial;5;14.69;40.95;9.3;64.94;alto con tendencia a básico
+2018;105001000981;inst educ gilberto alzate avendaño;oficial;4;15.1;37.42;10.15;62.68;alto con tendencia a básico
+2018;105001000990;inst educ gonzalo restrepo jaramillo;oficial;9;16.76;44.43;10.35;71.54;alto
+2018;105001001023;inst educ antonio ricaurte;oficial;16;17.55;45.1;11.6;74.25;alto
+2018;105001001121;inst educ jose roberto vasquez;oficial;3;12.2;27.65;7.75;47.6;básico
+2018;105001001155;inst educ san juan bautista de la salle;oficial;3;19.06;46.23;11.75;77.04;alto
+2018;105001001163;inst educ la asuncion;oficial;2;18.46;40.38;11.25;70.09;alto
+2018;105001001198;inst educ aures;oficial;7;17.4;45;9.6;72;alto
+2018;105001001236;inst educ montecarlo -  guillermo gaviria correa;oficial;3;18.5;42.6;8.65;69.75;alto con tendencia a básico
+2018;105001001252;inst educ cristobal colon;oficial;12;17.71;39.15;9.6;66.46;alto con tendencia a básico
+2018;105001001279;inst educ ciro mendia;oficial;2;14.6;30.25;11.45;56.3;básico con tendencia a alto
+2018;105001001317;inst educ madre maria mazarello;oficial;9;18.52;50.6;13.1;82.23;alto
+2018;105001001368;inst educ alvaro marin velasco;oficial;3;13.35;42.93;8.6;64.88;alto con tendencia a básico
+2018;105001001473;inst educ manuela beltran;oficial;3;13.05;33.13;9.45;55.63;básico con tendencia a alto
+2018;105001001490;inst educ lola gonzalez;oficial;12;14.78;35.4;11.8;61.98;alto con tendencia a básico
+2018;105001001562;inst educ javiera londoño;oficial;10;17.96;46.75;13.15;77.86;alto
+2018;105001001635;inst educ yermo y parres;oficial;16;23;51.15;12.6;86.75;alto con tendencia a superior
+2018;105001001651;inst educ jose celestino mutis;oficial;8;13.68;38.1;10.6;62.38;alto con tendencia a básico
+2018;105001001660;inst educ jose antonio galan;oficial;3;13.05;25.35;6.4;44.8;básico
+2018;105001001716;inst educ santa catalina de sena;oficial;14;20.13;45.95;12.55;78.63;alto
+2018;105001001791;inst educ gerardo valencia cano;oficial;7;12.9;32.7;11.15;56.75;básico con tendencia a alto
+2018;105001001805;inst educ fe y alegria popular nro. 1;oficial;1;16.48;41.55;13.5;71.53;alto
+2018;105001001848;inst educ sor juana ines de la cruz;oficial;5;21.69;53.08;17;91.76;superior con tendencia a alto
+2018;105001001881;inst educ carlos vieco ortiz;oficial;13;18.76;41.33;12.7;72.79;alto
+2018;105001002003;inst educ san roberto belarmino;oficial;16;17.71;40.7;11.25;69.66;alto con tendencia a básico
+2018;105001002011;inst educ federico ozanam;oficial;9;17.95;42.98;10.95;71.88;alto
+2018;105001002020;inst educ rafael uribe uribe;oficial;12;17.33;35.08;11.4;63.8;alto con tendencia a básico
+2018;105001002038;inst educ jose eusebio caro;oficial;4;13.8;32.3;10.35;56.45;básico con tendencia a alto
+2018;105001002071;inst educ benjamin herrera;oficial;15;14.2;33.28;9.15;56.63;básico con tendencia a alto
+2018;105001002101;inst educ juan de dios cock;oficial;4;18.08;32.33;10.65;61.05;alto con tendencia a básico
+2018;105001002119;inst educ marco fidel suarez;oficial;11;21.38;48;11.5;80.88;alto
+2018;105001002135;inst educ ramon munera lopera;oficial;3;12.6;28.65;9.75;51;básico
+2018;105001002305;inst educ mariscal robledo;oficial;7;17.91;46.48;12.75;77.14;alto
+2018;105001002348;inst educ fe y alegria santo domingo savio;oficial;1;12.15;32.4;7.65;52.2;básico
+2018;105001002356;inst educ gabriel garcia marquez;oficial;8;20.88;47.88;13.9;82.65;alto
+2018;105001002461;inst educ lucrecio jaramillo velez;oficial;11;19.81;51.5;15.5;86.81;alto con tendencia a superior
+2018;105001002470;inst educ san vicente de paul;oficial;7;16.35;46.2;9.15;71.7;alto
+2018;105001002488;inst educ pedro luis villa;oficial;3;14.1;36.88;10.35;61.33;alto con tendencia a básico
+2018;105001002496;inst educ cristo rey;oficial;15;18.75;44.28;12.15;75.18;alto
+2018;105001002526;inst educ samuel barrientos restrepo;oficial;12;17.88;35.78;10.35;64;alto con tendencia a básico
+2018;105001002780;inst educ san francisco de asis;oficial;8;12.6;31.2;10.35;54.15;básico
+2018;105001002798;inst educ mater dei;oficial;11;20.15;50.65;13.55;84.35;alto
+2018;105001002895;inst educ francisco antonio zea;oficial;12;20.69;51.38;13.75;85.81;alto con tendencia a superior
+2018;105001002976;inst educ la piedad;oficial;12;9.63;26.3;11.45;47.38;básico
+2018;105001003123;inst educ fatima nutibara;oficial;16;17.15;43.45;11.3;71.9;alto
+2018;105001003131;inst educ republica de honduras;oficial;2;22.5;44.9;13.1;80.5;alto
+2018;105001003221;inst educ manuel jose cayzedo;oficial;9;21.19;36.95;10;68.14;alto con tendencia a básico
+2018;105001003271;inst educ octavio harry - jacqueline kennedy;oficial;16;16.85;42.28;10.05;69.18;alto con tendencia a básico
+2018;105001003280;inst educ maria montessori;oficial;5;14.48;30.3;10.25;55.03;básico con tendencia a alto
+2018;105001003298;inst educ lorenza villegas de santos;oficial;4;14.15;36.55;10.35;61.05;alto con tendencia a básico
+2018;105001003387;inst educ santa rosa de lima;oficial;12;15.08;40.67;11.25;67;alto con tendencia a básico
+2018;105001003425;inst educ jose maria bravo marquez;oficial;4;18.45;33.9;10.65;63;alto con tendencia a básico
+2018;105001003441;inst tec industrial pascual bravo;oficial;7;16.08;42;10.05;68.13;alto con tendencia a básico
+2018;105001003450;inst educ rosalia suarez;oficial;16;12.4;35.1;9.55;57.05;básico con tendencia a alto
+2018;105001004472;inst educ la presentacion;oficial;15;19.27;49.08;16.25;84.6;alto
+2018;105001004791;inst educ santo angel;oficial;15;17.08;44.08;12.5;73.65;alto
+2018;105001005291;inst educ campo valdes;oficial;4;14.55;39.58;9.95;64.08;alto con tendencia a básico
+2018;105001005339;inst educ monseñor francisco cristobal toro;oficial;4;15.63;34.78;10.85;61.25;alto con tendencia a básico
+2018;105001005347;inst educ tulio ospina;oficial;10;17.51;46.7;11.55;75.76;alto
+2018;105001005380;inst educ manuel uribe angel;oficial;2;13;43.95;7.9;64.85;alto con tendencia a básico
+2018;105001005410;inst educ juan de dios carvajal;oficial;8;13.8;36;4.85;54.65;básico
+2018;105001005495;inst educ republica de uruguay;oficial;5;15.7;31.65;10.35;57.7;básico con tendencia a alto
+2018;105001005525;inst educ enrique olaya herrera;oficial;3;19.9;42.2;14.5;76.6;alto
+2018;105001005878;inst educ francisco miranda;oficial;4;16;43.25;9.6;68.85;alto con tendencia a básico
+2018;105001006068;inst educ dinamarca;oficial;5;19.88;40.33;12.8;73;alto
+2018;105001006092;inst educ julio cesar garcia;oficial;5;15.78;43.35;10.05;69.18;alto con tendencia a básico
+2018;105001006181;inst educ pedro octavio amado;oficial;16;15.93;38.5;13.25;67.68;alto con tendencia a básico
+2018;105001006246;inst educ jorge robledo;oficial;7;17.38;45.4;11.45;74.22;alto
+2018;105001006483;inst educ rodrigo correa palacio;oficial;5;13.73;36.38;9.75;59.85;básico con tendencia a alto
+2018;105001006556;inst educ juan xxiii;oficial;13;13.38;33.9;11.9;59.18;básico con tendencia a alto
+2018;105001006718;inst educ asia ignaciana;oficial;2;10.36;36.15;10.6;57.11;básico con tendencia a alto
+2018;105001006980;inst educ concejo de medellin;oficial;12;13.88;43.65;8.05;65.58;alto con tendencia a básico
+2018;105001007111;inst educ sebastian de belalcazar;oficial;5;14.7;42;9.45;66.15;alto con tendencia a básico
+2018;105001007188;inst educ benedikta zur nieden;oficial;12;8.9;26.08;7.6;42.58;básico
+2018;105001007218;inst educ maria de los angeles cano marquez;oficial;1;16.55;49.88;11.95;78.38;alto
+2018;105001007421;inst educ octavio calderon mejia;oficial;15;22.44;59.13;15.35;96.91;superior
+2018;105001007439;inst educ pedro claver aguirre;oficial;5;16.25;44.83;11.5;72.58;alto
+2018;105001007889;inst educ juvenil nuevo futuro;oficial;6;17.75;42.45;12.15;72.35;alto
+2018;105001007919;col sagrada familia aldea pablo vi;contratacion;1;20.88;51.75;14.25;86.88;alto con tendencia a superior
+2018;105001008150;inst educ el diamante;oficial;7;17.45;35.25;9.55;62.25;alto con tendencia a básico
+2018;105001008249;inst educ bello horizonte;oficial;7;14.18;40.42;12.85;67.45;alto con tendencia a básico
+2018;105001008389;inst educ gabriela gomez carvajal;oficial;9;14.7;33.9;9.6;58.2;básico con tendencia a alto
+2018;105001008486;inst educ capilla del rosario;oficial;16;14.4;37.58;13.5;65.47;alto con tendencia a básico
+2018;105001009652;inst educ san lorenzo de aburra;oficial;3;14.9;40.13;10.75;65.78;alto con tendencia a básico
+2018;105001009695;inst educ san juan bosco;oficial;4;12.25;39.25;9.2;60.7;alto con tendencia a básico
+2018;105001009709;inst educ felix henao botero;oficial;8;15.98;35.85;11.25;63.08;alto con tendencia a básico
+2018;105001009865;inst educ hernan toro agudelo;oficial;3;18.77;46.18;13.05;78;alto
+2018;105001010111;inst educ maestro fernando botero;oficial;6;12.53;29.65;6.85;49.03;básico
+2018;105001010367;inst educ santos angeles custodios;oficial;15;16.3;42.13;9.15;67.58;alto con tendencia a básico
+2018;105001010448;inst educ la esperanza;oficial;6;18.63;53.13;13.1;84.85;alto
+2018;105001010588;inst educ fe y alegria la cima;oficial;3;15.58;42.43;8.6;66.6;alto con tendencia a básico
+2018;105001010855;inst educ ana de castrillon;oficial;10;14.1;35.88;9.8;59.78;básico con tendencia a alto
+2018;105001010928;cent educal don bosco;privado;5;14.68;35.55;5.55;55.78;básico con tendencia a alto
+2018;105001011011;inst educ tomas carrasquilla no. 2;oficial;7;16.26;44.5;13.15;73.91;alto
+2018;105001011061;inst educ jose asuncion silva;oficial;5;17.61;47.53;12.75;77.89;alto
+2018;105001011070;inst educ merceditas gomez martinez;oficial;9;16.68;37.95;12.15;66.78;alto con tendencia a básico
+2018;105001011088;inst educ ciudadela las americas;oficial;6;18.27;37.58;13.25;69.1;alto con tendencia a básico
+2018;105001011363;inst educ doce de octubre;oficial;6;22;54.88;15.5;92.38;superior
+2018;105001011461;inst educ fe y alegria aures;oficial;7;23;59;16.25;98.25;superior
+2018;105001011606;inst educ horacio muñoz suescun;oficial;16;17.65;40.15;11.35;69.15;alto con tendencia a básico
+2018;105001011631;inst educ asamblea departamental;oficial;9;10.85;36.98;10.95;58.78;básico con tendencia a alto
+2018;105001011690;inst educ federico carrasquilla;oficial;1;9.95;25.58;8.15;43.68;básico
+2018;105001011711;inst educ villa de la candelaria;oficial;7;18.5;43.15;9.75;71.4;alto
+2018;105001011886;inst educ america;oficial;12;15.41;36.4;12.45;64.26;alto con tendencia a básico
+2018;105001012076;esc universidad  nacional de medellin;oficial;7;18.05;55.98;15.25;89.28;alto con tendencia a superior
+2018;105001012092;inst educ barrio santander;oficial;6;16.5;36.03;10.5;63.03;alto con tendencia a básico
+2018;105001012106;inst educ juan maria cespedes;oficial;16;22.75;56.88;16.5;96.13;superior
+2018;105001012165;inst educ guadalupe;oficial;1;10.85;31.2;8.85;50.9;básico
+2018;105001012581;inst educ reino de belgica;oficial;3;14.1;29.55;10.2;53.85;básico
+2018;105001012696;inst educ alfonso lopez pumarejo;oficial;10;16.05;35.95;7.8;59.8;básico con tendencia a alto
+2018;105001012700;inst educ san pablo;oficial;1;13.2;38.2;12.25;63.65;alto con tendencia a básico
+2018;105001013013;inst educ picachito;oficial;6;11.39;29.78;9.4;50.56;básico
+2018;105001013072;inst educ maestro pedro nel gomez;oficial;5;13.8;41.03;8.55;63.38;alto con tendencia a básico
+2018;105001013145;inst educ santa teresa;oficial;2;20.59;52.38;13.6;86.56;alto con tendencia a superior
+2018;105001013340;inst educ inem jose felix de restrepo;oficial;14;21.63;55.75;16.25;93.63;superior
+2018;105001013439;inst educ felix de bedout moreno;oficial;5;17.6;44.33;8.55;70.47;alto
+2018;105001013447;inst educ jose horacio betancur;oficial;60;13.73;30.95;11.85;56.53;básico con tendencia a alto
+2018;105001013633;inst educ loma hermosa;oficial;60;13.1;33.83;10.05;56.98;básico con tendencia a alto
+2018;105001014052;inst educ nuevo horizonte (sede nuevo horizonte 1);oficial;1;13.2;34.33;10.7;58.23;básico con tendencia a alto
+2018;105001014397;inst educ luis lopez de mesa;oficial;7;18.75;48.63;11.55;78.93;alto
+2018;105001014851;inst educ jesus rey;oficial;7;21.75;48.2;11.15;81.1;alto
+2018;105001015091;inst educ fe y alegria granizal;oficial;1;13.43;30.28;10.65;54.35;básico
+2018;105001015148;inst educ camilo mora carrasquilla;oficial;7;16.35;43.2;10.95;70.5;alto
+2018;105001015172;inst educ eduardo santos;oficial;13;12.68;27.25;7.1;47.03;básico
+2018;105001015211;inst educ la libertad;oficial;8;15.98;36;10.05;62.03;alto con tendencia a básico
+2018;105001015831;inst educ vallejuelos;oficial;7;15.38;34.5;10.25;60.13;alto con tendencia a básico
+2018;105001016420;inst educ tricentenario;oficial;5;15.93;38.7;8.2;62.83;alto con tendencia a básico
+2018;105001017132;inst educ fe y alegria san jose;oficial;7;16.35;39.42;11.6;67.38;alto con tendencia a básico
+2018;105001017876;inst educ francisco luis hernandez betancur;oficial;4;17.05;36.65;9.25;62.95;alto con tendencia a básico
+2018;105001017965;inst educ manuel jose gomez serna;oficial;5;14.85;35.67;10.35;60.88;alto con tendencia a básico
+2018;105001018759;inst educ fe y alegria el limonar;oficial;80;13.33;35.08;7.95;56.35;básico con tendencia a alto
+2018;105001019011;inst educ stella velez londoño;oficial;13;14.63;35.05;10.6;60.28;alto con tendencia a básico
+2018;105001019062;inst educ alfonso mora naranjo;oficial;4;17.71;32.38;10.85;60.94;alto con tendencia a básico
+2018;105001019089;inst educ  vida para todos;oficial;8;14.9;30.53;9.75;55.18;básico con tendencia a alto
+2018;105001019143;inst educ jorge eliecer gaitan;oficial;6;10.39;28.05;5.45;43.89;básico
+2018;105001019194;inst educ el pedregal;oficial;6;14.68;37.05;10.6;62.33;alto con tendencia a básico
+2018;105001019305;inst educ la avanzada;oficial;1;17.25;38.03;10.6;65.88;alto con tendencia a básico
+2018;105001019330;inst educ barrio santa margarita;oficial;7;16.74;43.15;10.95;70.84;alto
+2018;105001019429;inst educ luis carlos galan sarmiento;oficial;8;14.1;35.7;9.75;59.55;básico con tendencia a alto
+2018;105001019453;inst educ villa del socorro;oficial;2;16.18;38.23;13.5;67.9;alto con tendencia a básico
+2018;105001019534;inst educ rodrigo lara bonilla;oficial;3;15.5;34.48;9.7;59.68;básico con tendencia a alto
+2018;105001019674;inst educ miraflores;oficial;9;13.85;36.3;6.8;56.95;básico con tendencia a alto
+2018;105001019798;inst educ alfonso lopez;oficial;5;17.45;32.55;10.25;60.25;alto con tendencia a básico
+2018;105001019925;inst educ alcaldia de medellin;oficial;16;15.5;37.8;11.55;64.85;alto con tendencia a básico
+2018;105001020028;inst educ el salvador;oficial;10;14.63;31.05;10.95;56.63;básico con tendencia a alto
+2018;105001020052;inst educ rafael garcia herreros;oficial;7;12.8;36;9.9;58.7;básico con tendencia a alto
+2018;105001020273;inst educ ciudad don bosco;oficial;7;11.03;28.33;6.9;46.25;básico
+2018;105001021199;inst educ la independencia;oficial;13;20.38;49.63;13.1;83.1;alto
+2018;105001021547;inst educ villa flora;oficial;7;20.94;60;14.1;95.04;superior
+2018;105001021636;inst educ kennedy;oficial;6;9.79;25.08;7.2;42.06;básico
+2018;105001021873;inst educ sol de oriente;oficial;8;14.48;35.7;8.85;59.03;básico con tendencia a alto
+2018;105001022101;inst educ las nieves;oficial;3;16.9;48.45;12.35;77.7;alto
+2018;105001023965;inst educ finca la mesa;oficial;2;16.48;40.03;10.65;67.15;alto con tendencia a básico
+2018;105001024073;inst educ casd jose mora espinosa prieto;oficial;6;14.9;29.43;6.35;50.68;básico
+2018;105001025763;inst educ debora arango;oficial;70;15.33;36.73;9.9;61.95;alto con tendencia a básico
+2018;105001025771;inst educ joaquin vallejo arbelaez;oficial;8;12.45;29.5;7.25;49.2;básico
+2018;105001025780;institucion educativa pbro antonio jose bernal;oficial;5;22.75;45.9;14.75;83.4;alto
+2018;105001025798;inst educ angela restrepo moreno;oficial;80;14.1;44.98;10.6;69.68;alto con tendencia a básico
+2018;105001025844;inst educ antonio derka - santo domingo;oficial;1;17.3;47.88;14.75;79.93;alto
+2018;105001025984;inst educ col loyola para la ciencia y la innovacion;oficial;5;8.09;30.83;7.4;46.31;básico
+2018;105001025992;nicanor restrepo santamaría;oficial;60;16.3;36.88;10.2;63.38;alto con tendencia a básico
+2018;105001026000;inst educ ciudadela nuevo occidente;oficial;60;17.43;39.95;10.5;67.88;alto con tendencia a básico
+2018;105001026131;inst educ el pinal;oficial;8;15.4;39.92;14.25;69.58;alto con tendencia a básico
+2018;105001026352;institucion educativa el corazón;oficial;13;13.8;32.78;8.85;55.43;básico con tendencia a alto
+2018;105001026361;institucion educativa jesus maria valle;oficial;6;12.06;30.15;11.85;54.06;básico
+2018;105001026514;inst educ san benito;oficial;10;18.15;44.3;8.3;70.75;alto
+2018;105001026549;ie bello oriente;oficial;3;10.93;35.7;9.65;56.28;básico con tendencia a alto
+2018;105001026573;ie lusitania- paz de colombia;oficial;60;11.45;31.33;11.25;54.03;básico
+2018;105001026581;inst educ la sierra;oficial;8;11.25;13.88;7.65;32.78;básico con tendencia a bajo
+2018;105001026603;inst educ altavista;oficial;70;8.03;25.25;7.65;40.92;básico
+2018;105001026654;inst educ el playon;oficial;2;10.75;23.45;7.5;41.7;básico
+2018;105001026662;inst educ la pastora;oficial;9;10.61;31.8;8.45;50.86;básico
+2018;105001026671;inst educ san nicolas;oficial;1;13.2;30;7.65;50.85;básico
+2018;105001026689;inst educ blanquizal;oficial;13;15.45;33.3;5.8;54.55;básico
+2018;105001026697;inst educ fundadores;oficial;13;12.45;32.73;6.9;52.08;básico
+2018;105001026701;inst educ progresar;oficial;6;12.53;23.5;10.65;46.68;básico
+2018;105001026719;inst educ rodrigo arenas betancur;oficial;7;16.25;39.92;10.05;66.22;alto con tendencia a básico
+2018;205001001389;cent educ media luna;oficial;90;16.05;45;12.75;73.8;alto
+2018;205001001672;inst educ monseñor victor wiedemann;oficial;80;20.38;53.13;15;88.5;alto con tendencia a superior
+2018;205001001966;cent educ la aldea;oficial;50;23;37.2;12.5;72.7;alto
+2018;205001002199;inst educ carlos alberto calderon;oficial;60;18.02;42.78;15;75.8;alto
+2018;205001002768;cent educ el salado;oficial;80;13.65;35.55;11.4;60.6;alto con tendencia a básico
+2018;205001006119;cent educ juan andres patiño;oficial;90;12.95;34.17;5.03;52.15;básico
+2018;205001006224;cent educ permanente mazo;oficial;90;16.5;37.5;12.03;66.03;alto con tendencia a básico
+2018;205001006232;inst educ san cristobal;oficial;60;14.74;33.15;9.15;57.04;básico con tendencia a alto
+2018;205001006526;inst educ marina orth;oficial;70;14.03;27.28;9.7;51;básico
+2018;205001007735;inst educ hector rogelio montoya;oficial;50;8.51;26.4;8.65;43.56;básico
+2018;205001009797;inst educ manuel j. betancur;oficial;80;15.2;44.4;9.3;68.9;alto con tendencia a básico
+2018;205001009916;cent educ el manzanillo;oficial;70;11.65;31.35;6.85;49.85;básico
+2018;205001010264;inst educ presbitero juan j. escobar;oficial;60;10.71;25.23;9.4;45.34;básico
+2018;205001010281;inst  educ alfonso upegui orozco;oficial;60;22;52.5;11.15;85.65;alto con tendencia a superior
+2018;205001011031;inst educ santa elena;oficial;90;18.84;48.38;12.65;79.86;alto
+2018;205001012534;inst educ san antonio de prado;oficial;80;16.05;45.93;10.05;72.03;alto
+2018;205001014308;cent educ las playas;oficial;60;17.65;44.95;12.75;75.35;alto
+2018;205001018745;inst educ el limonar;oficial;80;13.03;30.6;6.2;49.83;básico
+2018;205001019318;inst educ san jose obrero;oficial;80;12.43;30.9;7.5;50.83;básico
+2018;205001019989;cent educ travesias el morro;oficial;60;17.65;52;15;84.65;alto
+2018;205001021452;cent educ pedregal alto;oficial;60;14.85;28.73;5.25;48.83;básico
+2018;205001026624;inst educ compartir;oficial;80;18.75;50.38;13.25;82.38;alto
+2018;205001026632;inst educ corvide;oficial;80;15.88;32.75;12.05;60.68;alto con tendencia a básico
+2018;205001026641;inst educ pradito;oficial;80;12.9;27;7.4;47.3;básico
+2018;305001000000;cent educ sagrado nino;privado;9;18.75;49;13.38;81.13;alto
+2018;305001000093;inst educ prados verdes;privado;10;20.88;51.7;13.05;85.63;alto con tendencia a superior
+2018;305001000611;inst de educ formal compuestudio;contratacion;10;19.9;56.83;12.63;89.35;alto con tendencia a superior
+2018;305001003491;col calasanz femenino;privado;11;13.8;44.68;10.5;68.97;alto con tendencia a básico
+2018;305001003629;inst pedag claret;privado;4;20.38;50.38;15.5;86.25;alto con tendencia a superior
+2018;305001003696;lic san rafael;privado;16;15.38;42.9;9.45;67.72;alto con tendencia a básico
+2018;305001003793;inst salesiano pedro justo berrio;privado;16;17.75;48;11.85;77.6;alto
+2018;305001003963;lic salazar y herrera;privado;12;18.75;50.38;12.85;81.98;alto
+2018;305001004218;col nuestra senora de lourdes;contratacion;4;18.5;55.75;14.75;89;alto con tendencia a superior
+2018;305001004293;col de la univ potificia bolivariana;privado;11;18.77;45.98;14.2;78.95;alto
+2018;305001004498;col san ignacio de loyola;privado;11;17.95;50.5;13.65;82.1;alto
+2018;305001004528;col maria reina del carmelo;contratacion;3;20.02;48.7;12.8;81.53;alto
+2018;305001004544;inst tomas carrasquilla;contratacion;9;19.46;50.33;15.7;85.49;alto con tendencia a superior
+2018;305001004579;col palermo de san jose;privado;14;19.01;44.05;11.1;74.16;alto
+2018;305001004820;col agustiniano de san nicolas;privado;4;17.35;45.63;6.65;69.63;alto con tendencia a básico
+2018;305001004854;inst educ alvernia;oficial;4;14.4;37.05;10.35;61.8;alto con tendencia a básico
+2018;305001004871;col pablo vi;contratacion;3;15.45;42.75;13;71.2;alto
+2018;305001004994;col santa teresita;privado;12;16.55;41.33;11.45;69.33;alto con tendencia a básico
+2018;305001005036;col san jose de las vegas;privado;14;21.69;50.88;15;87.56;alto con tendencia a superior
+2018;305001005109;col la anunciacion;privado;9;19;47.83;13.5;80.33;alto
+2018;305001005125;col madre antonia cerini;privado;14;12.13;29.83;6.5;48.45;básico
+2018;305001005150;esc normal superior antioqueña;privado;9;22.19;57.75;17;96.94;superior
+2018;305001005265;col latino;contratacion;14;21.13;57.25;14.5;92.88;superior
+2018;305001005893;colegio el hogar de su niño;contratacion;13;20.38;48.88;14.63;83.88;alto
+2018;305001006440;esc popular eucaristica zoraida trujillo;privado;6;11.7;42.78;10.28;64.75;alto con tendencia a básico
+2018;305001006458;esc popular eucaristica camilo c. restrepo;privado;15;19.25;44.1;16;79.35;alto
+2018;305001006831;inst musical diego echavarria;privado;14;22;59.13;14.75;95.88;superior
+2018;305001007594;inst educ santa juana de lestonac;oficial;6;15.68;37.9;10.15;63.73;alto con tendencia a básico
+2018;305001007861;gimn guayacanes;contratacion;7;15.2;36.83;12.5;64.53;alto con tendencia a básico
+2018;305001007969;col nuestra senora de la providencia;privado;14;18.08;48.88;13.75;80.7;alto
+2018;305001010781;col montessori;privado;14;21.69;56.88;16.25;94.81;superior
+2018;305001011516;col santa bertilla boscardin;privado;7;15.45;45.7;16;77.15;alto
+2018;305001011583;col san lucas;privado;14;15.5;35.58;9.35;60.43;alto con tendencia a básico
+2018;305001011761;inst ferrini - sede robledo;privado;7;12.23;36.03;8.25;56.5;básico con tendencia a alto
+2018;305001011770;inst vicarial jesus maestro;contratacion;3;18.5;45.63;11.75;75.88;alto
+2018;305001012156;preesc mil dulce hogar;contratacion;3;18.25;44.1;10.5;72.85;alto
+2018;305001012181;col san juan eudes;contratacion;7;17.9;41.88;12.6;72.38;alto
+2018;305001012857;col  santa maria de la paz;privado;7;16.95;45.43;13.4;75.78;alto
+2018;305001013691;col alfred binet;privado;9;22.25;57.63;15.13;95;superior
+2018;305001013730;col pestalozzi;privado;16;16.73;39.88;13.5;70.1;alto
+2018;305001014248;col parroquial san judas tadeo;privado;5;18;43.73;14.75;76.47;alto
+2018;305001015287;inst educ la candelaria;oficial;1;13.28;33.48;10.05;56.8;básico con tendencia a alto
+2018;305001015686;inst educ maestro arenas betancur;oficial;5;16.76;41.28;7.35;65.39;alto con tendencia a básico
+2018;305001015716;col parroquial ntra señora del buen consejo;privado;5;20.88;47.05;16.75;84.68;alto
+2018;305001016542;inst educ el triunfo santa teresa;oficial;6;18.63;38.67;11.25;68.55;alto con tendencia a básico
+2018;305001016861;institución educativa pedagógico integral cenpi;contratacion;16;12.85;32.17;11.25;56.28;básico con tendencia a alto
+2018;305001016984;esc popular eucaristica julio c. hernandez;contratacion;1;16.1;44.15;10.65;70.9;alto
+2018;305001017115;cent educ casa mama margarita;contratacion;10;16.95;43.2;12.15;72.3;alto
+2018;305001017298;col arenys del mar;contratacion;13;15.15;42.75;13.15;71.05;alto
+2018;305001017361;cent de desarrollo integrado - cendi;contratacion;10;19.4;53.5;15.13;88.03;alto con tendencia a superior
+2018;305001018022;inst educ fe y alegria luis amigo;oficial;4;16.95;43.18;8.85;68.97;alto con tendencia a básico
+2018;305001018286;col san gabriel de la dolorosa;privado;15;15.29;28.93;8.75;52.96;básico
+2018;305001018421;cent educ jesus amigo;contratacion;6;15.58;42.1;11.4;69.08;alto con tendencia a básico
+2018;305001018839;inst educ madre laura;oficial;9;17.99;48.4;12.95;79.34;alto
+2018;305001019169;inst pedagogico alfa;privado;5;11.85;29.4;9.9;51.15;básico
+2018;305001019509;esc hermana alcira castro osorio;contratacion;1;13.78;33.45;11.73;58.95;básico con tendencia a alto
+2018;305001019606;inst educ comfenalco;contratacion;10;20.13;52.7;13.88;86.7;alto con tendencia a superior
+2018;305001019690;inst educ arzobispo tulio botero salazar;oficial;9;16.25;24.7;7.1;48.05;básico
+2018;305001019819;col sapiencia;privado;7;16.55;44;10.68;71.22;alto
+2018;305001020094;col emaus;contratacion;1;21.63;56.88;16.5;95;superior
+2018;305001020558;col creadores del futuro;contratacion;10;16.27;39.78;11.4;67.45;alto con tendencia a básico
+2018;305001021244;col antares;privado;10;14.4;38.45;7.73;60.58;alto con tendencia a básico
+2018;305001021252;inst de ciencias aplicadas - indecap;contratacion;10;21;52.95;12.75;86.7;alto con tendencia a superior
+2018;305001021261;col gente unida jovenes por la paz - moravia;contratacion;4;18.02;48;15.13;81.15;alto
+2018;305001021821;col gente unida jovenes por la paz-santo domingo;contratacion;1;17.7;42;13.35;73.05;alto
+2018;305001022178;inst corferrini - sede robledo;contratacion;7;13.05;33.08;10.05;56.18;básico con tendencia a alto
+2018;305001022232;inst educ  barrio olaya herrera;oficial;7;16.1;33.92;9.75;59.78;básico con tendencia a alto
+2018;305001022453;centro pedagogico la magia de aprender;contratacion;3;18.2;43.78;15.75;77.72;alto
+2018;305001022461;col gente unida jovenes por la paz - luz de oriente;contratacion;3;16.85;41.13;12.35;70.33;alto
+2018;305001022470;col lujan;privado;11;17.3;42.13;14.7;74.13;alto
+2018;305001022496;institución educativa pequeña maria;contratacion;1;18.5;46.8;12;77.3;alto
+2018;305001022518;col combos comunidad educativa de base;contratacion;10;17.98;48.55;13.63;80.15;alto
+2018;305001022534;col gente unida jovenes por la paz - sede villa cafe;contratacion;16;16.5;52.88;15.75;85.13;alto con tendencia a superior
+2018;305001022631;corp esc empresarial de educacion;contratacion;10;17.95;49.5;13.88;81.33;alto
+2018;305001022640;inst educ el bosque;oficial;4;17.36;37.33;11.2;65.89;alto con tendencia a básico
+2018;305001022666;col empresarial educativo - cemped;contratacion;10;14.25;34.8;9.63;58.68;básico con tendencia a alto
+2018;305001024229;corporacion cier;contratacion;60;11.55;31.55;8.55;51.65;básico
+2018;305001024236;cent educ hogar jesus redentor;contratacion;6;20.75;53.75;15.25;89.75;alto con tendencia a superior
+2018;305001024419;col antares;privado;7;14.55;33.78;7.95;56.28;básico con tendencia a alto
+2018;305001024505;"centro de capacitacion academica y laboral - ""cencal""";privado;10;19.88;45;13.38;78.25;alto
+2018;305001024544;col nuevo cervantes conocer;contratacion;10;18.27;36.88;11.73;66.88;alto con tendencia a básico
+2018;305001024569;col ciencia y vida;privado;10;17.77;43.9;10.65;72.33;alto
+2018;305001024590;corp de prog de educ social - corproe;contratacion;10;15.75;33.75;9.15;58.65;básico con tendencia a alto
+2018;305001024609;col compusocial;contratacion;10;17.55;54.3;13.13;84.98;alto
+2018;305001024623;col de dsllo soc para la atenc integ al joven talita cumi;contratacion;3;18;44.5;12.15;74.65;alto
+2018;305001025185;col basico camino de paz;contratacion;8;8.95;32.25;10.05;51.25;básico
+2018;305001025487;cent educ caicedo;privado;8;22.5;56.75;15.63;94.88;superior
+2018;305001025568;centro de estudios multitécnico;contratacion;10;17.83;43.05;11.25;72.13;alto
+2018;305001025592;colegio empresarial;contratacion;80;23;55.5;15.2;93.7;superior
+2018;305001025606;colegio cibercolegio;contratacion;50;18.75;44.45;12.1;75.3;alto
+2018;305001025622;centro educativo nuevo amanecer;contratacion;3;18.77;45.88;13.25;77.9;alto
+2018;305001025657;c.e. de cómputo empresarial para el trabajo - cindecóputo;contratacion;10;15.15;35.33;10.65;61.13;alto con tendencia a básico
+2018;305001025886;c.e. mi segundo hogar;privado;6;14.65;41.03;11.55;67.22;alto con tendencia a básico
+2018;305001026041;col heraldos del evangelio;privado;14;23;48.13;15.5;86.63;alto con tendencia a superior
+2018;305001026335;colegio básico santa maria de la cruz;contratacion;3;17.52;43.65;12.15;73.33;alto
+2018;305001026343;colegio luis amigo y ferrer;contratacion;7;14.8;32.08;13.75;60.63;alto con tendencia a básico
+2018;405001013912;esc popular eucaristica santa angela;contratacion;60;17.15;46.75;9.9;73.8;alto
+2018;405001016946;col coop san antonio de prado (ac);contratacion;80;23;58.5;15;96.5;superior
